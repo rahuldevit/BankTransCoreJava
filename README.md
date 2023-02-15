@@ -1,1 +1,1 @@
-# BankTransCoreJava
+# Bank Transection Mini Project
